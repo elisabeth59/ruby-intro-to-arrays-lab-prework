@@ -35,5 +35,5 @@ end
 
 def length_of_array(length)
 @programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]+
-  length = length_of_array(8)
+  length = length_of_array(@programming_languages).8
 end
